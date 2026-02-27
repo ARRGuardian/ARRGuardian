@@ -1,16 +1,14 @@
 # 👋 ARRGuardian - All about GTM, Growth and RevOps.
+---
+**`Digital Craftsman`**
 
-## I'm a Husband, (Step)Father, Developer, and Cowboy - Yeehaw! 🤠
+I'm a Husband, (Step)Father, Developer, and Cowboy - Yeehaw! 🤠
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Ship more!!
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-**`Digital Craftsman`**
-
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (680k+ subscribers).
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
